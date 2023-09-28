@@ -1,4 +1,4 @@
-# Narket Relationship Analysis: S&P 500 and Procter & Gamble (PG)
+# Market Relationship Analysis: S&P 500 and Procter & Gamble (PG)
 
 ## Overview
 
