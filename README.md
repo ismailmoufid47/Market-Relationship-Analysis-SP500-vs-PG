@@ -20,7 +20,7 @@ This Python project explores the financial dynamics between the S&P 500 index an
 
 ```bash
 git clone https://github.com/ismailmoufid47/Market-Relationship-Analysis-SP500-vs-PG.git
-cd financial-data-analysis
+cd Market-Relationship-Analysis-SP500-vs-PG
 ```
 
 2. Install the required Python packages:
